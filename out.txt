@@ -1,0 +1,6 @@
+MOV R0,b
+ADD R0,c
+MOV a,R0
+MOV R1,d
+DIV R1,e
+MOV b,R1
